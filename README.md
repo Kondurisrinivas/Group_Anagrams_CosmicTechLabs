@@ -4,7 +4,7 @@ Group_Anagrams Code
 
 This Python code takes a list of words and groups the anagrams together. Anagrams are words that have the same characters but in a different order.
 
-#Usage
+# Usage
 
 1. Make sure you have Python 3 installed.
 
